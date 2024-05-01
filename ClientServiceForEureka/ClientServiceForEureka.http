@@ -1,0 +1,6 @@
+@ClientServiceForEureka_HostAddress = http://localhost:5026
+
+GET {{ClientServiceForEureka_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
